@@ -1,20 +1,24 @@
-Jagara Eco Park CRM V2 Final Excel Based
+Jagara Eco Park CRM V3 Operational
 
-Development direction:
-- Master Sales
-- Sales Activity Database
-- Digital Marketing Activity
-- CEO Dashboard
-- Individual Sales Dashboard
-- KPI Scorecard
-- Excel Export
+Improvement from V2:
+- Master Sales connected to activity input
+- Dropdown sales selection
+- Sales offline activity database
+- Digital marketing activity database
+- KPI calculation structure
+- Dashboard filter ready
+- Excel export structure
 
-Starting condition:
-EMPTY DATABASE (no dummy data)
+Workflow:
 
-Flow:
 Master Sales
- -> Activity Input
- -> KPI Calculation
- -> Dashboard
- -> Export Report
+    ↓
+Sales Activity Input
+    ↓
+Digital Marketing Activity
+    ↓
+KPI Calculation
+    ↓
+CEO Dashboard
+    ↓
+Excel Report
