@@ -1,0 +1,10 @@
+body{margin:0;font-family:Arial;background:#f4f6f8}
+.layout{display:flex;min-height:100vh}
+aside{width:240px;background:#123524;color:white;padding:20px}
+aside button{width:100%;padding:12px;margin:8px 0}
+main{flex:1;padding:30px}
+.panel,.card{background:white;padding:20px;border-radius:15px;margin:20px 0}
+.cards{display:grid;grid-template-columns:repeat(4,1fr);gap:20px}
+input,select{padding:12px;margin:8px;width:250px}
+table{width:100%;border-collapse:collapse}
+td,th{padding:10px;border-bottom:1px solid #ddd}
