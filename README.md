@@ -1,16 +1,17 @@
-Jagara Eco Park CRM V4
+Jagara Eco Park CRM V5 KPI Automation
 
 Upgrade:
-- Fixed save workflow
-- Data stored in browser localStorage
-- Complete activity fields based on Excel
-- Sales master data
-- Digital marketing activity
-- KPI score calculation structure
+- Sales dropdown from Master Sales
+- Individual sales performance
+- Target vs Achievement structure
+- KPI formula engine preparation
+- Digital marketing KPI fields
+- CEO dashboard structure
 - Excel export
 
-Based on workbook:
-Input Database
-Digital Marketing Activity
-KPI Scorecard
-KPI Scoring Guide
+Flow:
+Master Sales
+-> Sales Activity
+-> Digital Marketing Activity
+-> KPI Calculation
+-> CEO Dashboard
